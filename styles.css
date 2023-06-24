@@ -53,7 +53,7 @@ html[data-bgs="gainsboro"] .container:not(.form-signin-banner) .container:not(.s
 html[data-bgs="gainsboro"] .loader-container,
 html[data-bgs="gainsboro"] {
     background-repeat: repeat;
-    background-image: radial-gradient(#e0e0e0, #333333), url("https://raw.githubusercontent.com/nativeit-dev/webmin-native-theme/master/img/background.jpg");
+    background-image: radial-gradient(#e0e0e0, #333333), url("https://raw.githubusercontent.com/DMX-Technologies/webmin-native-theme/master/img/background.jpg");
     filter: opacity(0.95);
     background-position: left;
     background-blend-mode: multiply;
@@ -565,7 +565,7 @@ form.session_login,
     -webkit-font-feature-settings: antialiased;
     font-feature-settings: antialiased;
     letter-spacing: 2px;
-    content: "imagination + technology";
+    content: "Manning Mansion Web Hosting";
     /*   This adds text below the login logo (the logo itself can be set from the theme's unauthenticated logo option panel   */
     text-transform: uppercase;
     color: var(--ui_color_grey) !important;
